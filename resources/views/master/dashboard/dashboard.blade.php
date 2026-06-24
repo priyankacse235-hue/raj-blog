@@ -1,4 +1,4 @@
-cc@extends('master/admin_layout')
+@extends('master/admin_layout')
 @section('content')
 <div class="content-wrapper">
 
