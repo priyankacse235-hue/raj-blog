@@ -1,0 +1,9 @@
+{{-- <script src="{{url('client/js/jquery.min.js')}}"></script> --}}
+<script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
+<script src="{{url('client/js/bootstrap.bundle.min.js')}}"></script>
+<script src="{{url('client/js/owl.carousel.min.js')}}"></script>
+<script src="{{url('client/js/wow.min.js')}}"></script>
+<script src="{{url('client/js/scrolling-tabs.js')}}"></script>
+<script src='https://demo-ochre.vercel.app/isotope-docs.min.js'></script>
+<script src="{{url('client/js/script.js')}}"></script>
+<script src="{{asset('plugins/jquery/jquery.min.js')}}"></script>

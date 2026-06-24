@@ -1,0 +1,133 @@
+show default profile picture  - done
+and show profile after select profile image - done
+blog suggestions
+    1. EasyScrolls.com - Indicates simplicity and ease of use.
+    2. SnapWrite.com - Suggests quick and easy writing.
+    3. SoftReads.com - Implies a comfortable and enjoyable reading experience.
+    4. RKCuriousInk.com - Combines curiosity and creativity with RK.
+    5. CuriousWriterHub.com - Clearly states the focus on writers and curiosity.
+    6. EarningCuriosity.com - Suggests earning through curiosity.
+    7. InscribeAndEarn.com - Indicates writing and earning.
+    8. LiteraryProfitHub.com - Emphasizes both literary content and profitability.
+    9. AuthorEarningsHub.com - Focuses on authors and earnings.
+    10. VisionaryGeek.com - Implies a blend of vision and tech.
+    11. InnovateWithRK.com - Emphasizes innovation with RK.
+    12. RKCreativeTech.com - Highlights creativity and technology with RK.
+    13. SprintBlogger.com - .
+------------------------------------------------------------------------
+Suggest with family business 
+1. Raj
+2. Newraj
+3. Rajtech
+4. Rkraj
+5. Rkraj.in (finalla)
+------------------------------------------------------------------------
+Slogans
+    1. Quick Posts & Earned.
+    2. Fast Tracks to Writing Success.
+
+--------------------------------> Policy Pages:
+1. Privacy Policy – This is crucial to inform users about how their data is collected, used, and protected.
+2. Terms and Conditions – Outlines the rules and guidelines users must follow when using your website.
+3. Disclaimer – Clarifies that the content on your blog is for informational purposes only and disclaims any responsibility for potential errors.
+4. Cookie Policy – Explains the use of cookies on the website and how users can control them.
+5. Refund/Return Policy (if applicable) – If you offer products or services, this should cover your refund policy.
+--------------------------------> Tips for Successfull Blogs
+1. Keyword Research
+    Use SEO tools like Google Keyword Planner, SEMrush, or Ubersuggest to find relevant keywords for your blog niche.
+    Focus on long-tail keywords (phrases with 3+ words) as they are less competitive and often more targeted.
+2. Optimize On-Page SEO
+    Title Tags: Include primary keywords in the blog title.
+    Meta Descriptions: Write a compelling meta description with keywords to encourage clicks.
+    Headings (H1, H2, H3): Use headings to structure your content, and include keywords in some of these headings.
+    Internal Linking: Link to other relevant articles on your blog to increase user engagement and boost SEO.
+3. High-Quality Content
+    Focus on original, valuable content that answers questions or solves problems for your target audience.
+    Content length: Aim for at least 1,000–2,000 words for in-depth posts. Longer content tends to rank better.
+    Use visuals: Add images, infographics, or videos to break up text and improve user experience.
+4. Mobile Optimization
+    Ensure your blog is mobile-friendly. Use responsive design and test how your site looks on various devices.
+    Page speed is critical. Use tools like Google PageSpeed Insights to ensure fast loading times.
+5. Optimize Images
+    Use descriptive file names and alt text for images. Include keywords when relevant.
+    Compress images to improve loading times without sacrificing quality (use tools like TinyPNG).
+6. Build Backlinks
+    Reach out to other bloggers for guest posting opportunities or collaborations.
+    Share your blog posts on social media, forums, and other platforms to generate traffic and encourage links from others.
+7. Use SEO Plugins
+    For WordPress blogs, install plugins like Yoast SEO or Rank Math to optimize your content easily.
+8. Optimize for Featured Snippets
+    Format your content to answer questions concisely so it has a chance to appear in Google’s featured snippets.
+    Use bullet points, numbered lists, and tables when relevant.
+9. Social Sharing
+    Add social sharing buttons to make it easy for readers to share your posts.
+    Share your content on social platforms and engage with your audience.
+10. Regular Updates
+    Update old posts with new information to keep your content fresh and relevant.
+    Post consistently to keep readers coming back and signal to search engines that your blog is active.
+11. Monitor Performance
+    Use tools like Google Analytics and Google Search Console to track your blog's performance and find opportunities for improvement.
+
+need to fix below things in next release
+: need to add search temrs on json of user/layout 
+: Need to add search functionlity on website
+: Need to develop comment functionality know and unknow user
+: login button on header 
+
+
+
+grapesjs-component-countdown
+grapesjs-plugin-export
+grapesjs-style-bg
+grapesjs-blocks-bootstrap4
+grapesjs-plugin-toolbox
+grapesjs-style-gradient
+
+
+
+youtube video embaed Option 
+countdown options 
+
+
+02/06/26
+dashboard blog - 1.active blog
+                 2.pending blog
+                 3.inactive blog
+                 4.total blog
+task2.
+remove img colum and create status colum in blog-details-Toggle
+replace show checkbox with Toggle
+
+
+
+------------------------- 5-6-2026
+Blog > edit > need to implement back button 
+Need to check and test comment functionality
+sidebar > profile link need to correct url 
+Author 
+    Need to save Bio info into DB 
+    on click on author page from blog need to show bio 
+
+    anonymous comment create
+    show the user’s bio in a modal popup
+    add an editor in the bio input box
+
+    create logo
+    bio complete
+    fix templete-
+
+
+Admin Template 
+    -- edit 
+    -- Design 
+        -- Save  
+        -- Image Upload 
+        -- Confitii 
+    -- Delete 
+
+website > Template 
+    -- List 
+    - onclick Preview single page 
+    -- edit and design 
+    -- publish 
+
