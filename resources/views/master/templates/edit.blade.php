@@ -584,7 +584,7 @@ editor.DomComponents.addType('confetti-wrapper', {
 
     editor.Commands.add('save-db', {
       run(editor, sender) {
-            alert('save button clicked');
+           
 
         // Make sure sender is available
         const btnEl = sender && sender.el;

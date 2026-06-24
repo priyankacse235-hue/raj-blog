@@ -17,7 +17,7 @@ class TemplateController extends Controller
         $temps = Template::join('categories', 'categories.id', '=', 'templates.cat_id')
             ->select('templates.title','templates.id','templates.created_at','templates.status', 'categories.name as category_name', 'templates.thumbnail')->limit(10)
             ->get();
-        // dd($temps);
+   
         return view('master/templates/index', ['title'=>'Admin - Create Template', 'templates'=>$temps]);
     }
 
@@ -68,7 +68,7 @@ class TemplateController extends Controller
         $temp = Template::join('categories', 'categories.id', 'templates.cat_id')
             ->where(['templates.id'=>$id])
             ->select('templates.*', 'categories.name as catgeory')->first();
-        // dd($temp);
+    
         return view('master/templates/edit_template', ['title'=>'Edit Template', 'categories'=>$categories, 'temp'=>$temp]);
     }
 
@@ -120,7 +120,7 @@ class TemplateController extends Controller
     }
 
     public function save_file(Request $request){
-         dd('controller reached');
+        
         $data = $request->validate([
             'html' => 'required|string',
             'css' => 'required|string',
@@ -148,7 +148,7 @@ class TemplateController extends Controller
 
     public function design($id){
         $template = Template::findOrFail($id);
-        // dd($template);
+        
         return view('master/templates/edit', ['template'=>$template]);
     }
 

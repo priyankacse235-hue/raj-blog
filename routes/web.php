@@ -21,8 +21,10 @@ use Illuminate\Support\Facades\Artisan;
 use App\Http\Controllers\SearchController;
 
 //Profile
-//Route::post('admin/profile/update', [Profilecontroller::class, 'update']);
- 
+Route::post('admin/profile/update', [Profilecontroller::class, 'update']);
+ //save template
+
+Route::post('/save-template', [TemplateController::class, 'save_file']);
 //Search
 Route::get('/search', [SearchController::class, 'index'])->name('search');
 Route::get('/search-suggestions', [SearchController::class, 'suggestions']);
